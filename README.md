@@ -1,16 +1,12 @@
-### Hi there 👋
+# 👋 Hi, welcome to my github profile.
+### My name is Marco Rojo. I'm a web software developer with more than 20 years of experience.
 
-<!--
-**mrmarcondes/mrmarcondes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# My stats
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrmarcondes&layout=compact&langs_count=7&theme=vue"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrmarcondes&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
+</div>
+  
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrmarcondes&theme=vue)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
