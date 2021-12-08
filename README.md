@@ -4,8 +4,8 @@
 ## My stats
 <div>
 <a href="https://github.com/mrmarcondes">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrmarcondes&layout=compact&langs_count=7&theme=vue"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrmarcondes&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrmarcondes&layout=compact&langs_count=7&theme=vue&hide=objective-c"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrmarcondes&show_icons=true&theme=vue&include_all_commits=true&count_private=true&custom_title=Stats"/>
 </div>
   
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrmarcondes&theme=vue)
